@@ -1,4 +1,5 @@
 ssh_attempts.csv
 flagged_ips.csv
+enriched_ips.csv
 __pycache__/
 *.pyc
