@@ -1,0 +1,2 @@
+# parser.py uses only the Python standard library (csv, re, subprocess,
+# datetime, pathlib) — no third-party dependencies are required.
