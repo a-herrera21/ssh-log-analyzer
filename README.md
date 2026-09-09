@@ -37,5 +37,20 @@ scanner that actually tried to break in.
 
 *(See `REPORT.md` in this repo for the full example report)*
 
+## Screenshots
+
+### Parser extracting structured SSH login data
+![Parser output](screenshots/parser-output.png)
+
+### Detection logic flagging suspicious IPs
+![Detection output](screenshots/detect-output.png)
+
+### AbuseIPDB threat intel enrichment
+![Enrichment output](screenshots/enrich-output.png)
+
+### Final SOC-style incident report
+![Report output 1](screenshots/report-output-1.png)
+![Report output 2](screenshots/report-output-2.png)
+
 ## Setup
 
